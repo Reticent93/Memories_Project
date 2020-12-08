@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d96a50ff-6e9f-4d8e-b615-a611687555cd" name="Default Changelist" comment="completed" />
+    <list default="true" id="d96a50ff-6e9f-4d8e-b615-a611687555cd" name="Default Changelist" comment="changed branches">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,9 +47,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Greg\Google Drive\Lambda\untitled3" />
+      <recent name="C:\Users\Greg\Google Drive\Lambda\untitled3\server" />
       <recent name="C:\Users\Greg\Google Drive\Lambda\untitled3\client\src\images" />
       <recent name="C:\Users\Greg\Google Drive\Lambda\untitled3\client\src" />
-      <recent name="C:\Users\Greg\Google Drive\Lambda\untitled3\server" />
       <recent name="C:\Users\Greg\Google Drive\Lambda\untitled3\client" />
     </key>
   </component>
@@ -73,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607219169439</updated>
       <workItem from="1607219170588" duration="15085000" />
-      <workItem from="1607342398366" duration="13031000" />
+      <workItem from="1607342398366" duration="14350000" />
     </task>
     <task id="LOCAL-00001" summary="add index.js files in client and server folders">
       <created>1607223617168</created>
@@ -117,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607407066887</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="changed branches">
+      <created>1607407737436</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607407737436</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +154,7 @@
     <MESSAGE value="added project files" />
     <MESSAGE value="added Form" />
     <MESSAGE value="completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed" />
+    <MESSAGE value="changed branches" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed branches" />
   </component>
 </project>
