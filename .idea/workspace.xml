@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d96a50ff-6e9f-4d8e-b615-a611687555cd" name="Default Changelist" comment="deleted master branch and using main branch">
-      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+    <list default="true" id="d96a50ff-6e9f-4d8e-b615-a611687555cd" name="Default Changelist" comment="updated package.json">
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607219169439</updated>
       <workItem from="1607219170588" duration="15085000" />
-      <workItem from="1607342398366" duration="14719000" />
+      <workItem from="1607342398366" duration="15030000" />
     </task>
     <task id="LOCAL-00001" summary="add index.js files in client and server folders">
       <created>1607223617168</created>
@@ -135,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607409148842</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="updated package.json">
+      <created>1607409569793</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607409569793</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +168,7 @@
     <MESSAGE value="completed" />
     <MESSAGE value="changed branches" />
     <MESSAGE value="deleted master branch and using main branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleted master branch and using main branch" />
+    <MESSAGE value="updated package.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated package.json" />
   </component>
 </project>
